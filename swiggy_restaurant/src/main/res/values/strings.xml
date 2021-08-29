@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Swiggy_Restaurant</string>
+    <string name="enjoy_food">Enjoy your favourite treats</string>
+    <string name="resto">Restaurant</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
