@@ -67,7 +67,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Hello git"
+        android:text="Hello"
         tools:layout_editor_absoluteX="155dp"
         tools:layout_editor_absoluteY="596dp" />
 
